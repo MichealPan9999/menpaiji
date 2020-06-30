@@ -1,0 +1,2 @@
+rootProject.name='Doorplate'
+include ':app', ':serverapi'

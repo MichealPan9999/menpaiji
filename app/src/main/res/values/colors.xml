@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorContentText">#CDCBD1</color>
+    <color name="colorDialogDividing">#C9201C22</color>
+    <color name="colorTransparency">#00ffffff</color>
+    <color name="color_background_start">#282737</color>
+    <color name="color_background_center">#312737</color>
+    <color name="color_background_end">#282737</color>
+    <color name="color_background">#F3121212</color>
+    <color name="colorBtnBgStart">#CB6FFF</color>
+    <color name="colorBtnBgEnd">#4548FE</color>
+    <color name="colorBtnCancelBgStart">#534D63</color>
+    <color name="colorBtnCancelBgEnd">#202022</color>
+    <color name="colorTextTip">#CBCBCB</color>
+    <color name="colorBackground">#282737</color>
+</resources>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Doorplate</string>
+    <string name="str_title_serverip">服务器IP</string>
+    <string name="str_key_serverip">服务器IP</string>
+
+    <!-- dialog -->
+    <string name="str_dialog_cancel">取消</string>
+    <string name="str_dialog_ok">确认</string>
+    <string name="str_serverip_null">服务器IP不能为空</string>
+    <string name="str_load">服务器IP不能为空</string>
+    <string name="str_received_error">加载失败，请检查网络及服务器IP</string>
+    <string name="str_load_url_time_out">加载超时，请检查网络及服务器IP</string>
+    <string name="str_text_loading">正在加载…</string>
+    <string name="str_net_disconnected_title">无网络连接</string>
+    <string name="str_net_disconnected_message">无网络连接，请检查网络是否打开！</string>
+    <string name="str_network_unreachable_title">网络不可用</string>
+    <string name="str_network_unreachable_message">当前网络不可用，请检查网络！</string>
+</resources>
